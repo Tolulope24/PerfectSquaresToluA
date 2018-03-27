@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\bin\Debug\PerfectSquaresToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\bin\Debug\PerfectSquaresToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\bin\Debug\PerfectSquaresToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\obj\Debug\PerfectSquaresToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\obj\Debug\PerfectSquaresToluA.frmPerfectSquares.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\obj\Debug\PerfectSquaresToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\obj\Debug\PerfectSquaresToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\obj\Debug\PerfectSquaresToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\PerfectSquaresToluA\PerfectSquaresToluA\obj\Debug\PerfectSquaresToluA.pdb
